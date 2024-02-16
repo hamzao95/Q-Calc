@@ -30,4 +30,4 @@ def modulous(c):
 #Geometric name: real-axis reflection
 def conjugate(c):
     c.b = -1 * c.b
-    print(f"The Complex Conjugate for c1 is: {conc.a}, {conc.b}")
+    print(f"The Complex Conjugate for c1 is: {c.a}, {c.b}")
