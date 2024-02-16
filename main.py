@@ -19,3 +19,7 @@ c2 = ComplexNum.ComplexNum(a, b)
 
 ComplexAlgebra.add(c1, c2)
 ComplexAlgebra.mul(c1, c2)
+ComplexAlgebra.sub(c1, c2)
+ComplexAlgebra.div(c1, c2)
+ComplexAlgebra.modulous(c1)
+ComplexAlgebra.conjugate(c1)
