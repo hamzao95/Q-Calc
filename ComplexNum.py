@@ -1,10 +1,11 @@
 class ComplexNum:
-    
-    a = 0
-    b = 0
 
-    def __init__(self, a, b):
-        self.a = a
-        self.b = b
+    def __init__(self, ain, bin):
+        # a = ain the real part of the complex number.
+        self.a = ain
+        
+        # b = bin the imaginary part of the real number.
+        self.b = bin
+
 
     
